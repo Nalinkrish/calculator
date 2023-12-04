@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px 0;
+    margin:0;
+    text-align:center;
+}
+
+button{
+    margin:10px;
+    padding:5px, 10px;
+    background-color:rgb(121, 172, 120);
+    background: white;
+    color:black;
+    border:1px,solid black;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+span{
+    border-bottom: 2px solid black;
+    padding: 4px;
+    
+    
+    
+}
